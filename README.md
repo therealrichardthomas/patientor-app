@@ -100,19 +100,19 @@ The React application will start, and you can access it in your browser, typical
 ## Available Scripts
 
 ### Backend (/patientor-backend)
-npm run tsc: Compiles the TypeScript code into JavaScript.
+  - npm run tsc: Compiles the TypeScript code into JavaScript.
 
-npm run dev: Starts the development server with hot-reloading using ts-node-dev.
+  - npm run dev: Starts the development server with hot-reloading using ts-node-dev.
 
-npm run lint: Lints the code using ESLint.
+  - npm run lint: Lints the code using ESLint.
 
-npm start: Starts the production server from the compiled JavaScript files in the build/ directory.
+  - npm start: Starts the production server from the compiled JavaScript files in the build/ directory.
 
 ### Frontend (/patientor)
-npm run dev: Starts the Vite development server.
+  - npm run dev: Starts the Vite development server.
 
-npm run build: Compiles the TypeScript and React code for production.
+  - npm run build: Compiles the TypeScript and React code for production.
 
-npm run lint: Lints the code using ESLint.
+  - npm run lint: Lints the code using ESLint.
 
-npm run preview: Serves the production build locally for previewing.
+  - npm run preview: Serves the production build locally for previewing.
