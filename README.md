@@ -36,6 +36,7 @@ This repository is structured as a monorepo, containing both the frontend and ba
 ---
 
 ## Project Structure
+```bash
 patientor-app/
 ├── patientor/          # React Frontend Application
 │   ├── public/
@@ -48,6 +49,7 @@ patientor-app/
 ├── src/
 ├── package.json
 └── ...
+```
 
 ---
 
